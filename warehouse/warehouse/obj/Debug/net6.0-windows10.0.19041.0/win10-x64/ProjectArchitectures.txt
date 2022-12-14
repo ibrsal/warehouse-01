@@ -1,0 +1,1 @@
+E:\maui\warehouse\warehouse\warehouse\warehouse.csproj;x64
